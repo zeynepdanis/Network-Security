@@ -13,11 +13,6 @@ The report is organized into several sections:
 - **Tools**: Highlights specific tools and utilities useful for network monitoring, intrusion detection, encryption, etc.
 - **Policies**: Explores the importance of policies in maintaining network security, including access control and data handling.
 
-## How to Use
-### Reading the Report
-The report is created using MkDocs, a simple and intuitive documentation generator. You can read the report by either:
-- **Cloning the Repository**: `git clone https://github.com/zeynepdanis/Network-Security.git` and opening the HTML files in a browser.
-- **Viewing Online**: The report is also available online at [GitHub Pages](link-to-github-pages).
 
 
 ## Contact
