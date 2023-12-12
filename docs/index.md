@@ -1,14 +1,14 @@
 
-# Welcome to the Network Security Hub!
+# Welcome 
 
-Welcome to the Network Security Hub, a comprehensive resource dedicated to strategies, applications, tools, and policies in network security.
+Welcome , a report about to strategies, applications, tools, and policies in network security.
 
 ## Explore Network Security
 
-- [Introduction to Network Security](../docs/Content/Introduction.md): Learn the fundamentals, threats, and importance of network security.
-- [Strategies for Securing Networks](../docs/Content/NetworkSecurityStrategies.md): Explore best practices, methodologies, and approaches.
-- [Common Tools and Applications](../docs/Content/Network%20Security%20Applications%20and%20Tools/): Discover essential tools like firewalls, IDS, VPNs, and more.
-- [Policies and Best Practices](../docs/Content/NetworkSecurityPolicies.md): Understand compliance, incident response, and data protection.
+- [Introduction to Network Security](./Content/Introduction.md): Learn the fundamentals, threats, and importance of network security.
+- [Strategies for Securing Networks](./Content/NetworkSecurityStrategies.md): Explore best practices, methodologies, and approaches.
+- [Common Tools and Applications](./Content/Network%20Security%20Applications%20and%20Tools/NetworkSecurityApplicationsandTools.md): Discover essential tools like firewalls, IDS, VPNs, and more.
+- [Policies and Best Practices](./Content/NetworkSecurityPolicies.md): Understand compliance, incident response, and data protection.
 
 ## Get Started
 
