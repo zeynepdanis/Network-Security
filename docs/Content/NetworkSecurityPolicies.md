@@ -1,4 +1,4 @@
-# NETWORK SECURİTY POLICIES 
+# NETWORK SECURITY POLICIES 
 
 ## What Is Network Security ?
 
