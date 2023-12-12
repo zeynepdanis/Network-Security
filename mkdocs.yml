@@ -1,0 +1,36 @@
+site_name: Ağ Güvenliği Stratejileri, Uygulamaları,Araçları ve Politikaları
+
+
+site_author: Zeynep Danış(zynep.danis@gmail.com)
+theme:
+  name: material
+  features:
+    - search.suggest 
+    - search.highlight 
+    - search.share 
+    
+  
+  
+  
+
+
+
+nav:
+  - Home: index.md
+  - Content:
+    - Introduction: Content/Introduction.md
+    - An Overview of Network Security: Content/AnOverviewofNetworkSecurity.md
+    - Network Security Strategies : Content/NetworkSecurityStrategies.md
+    - Network Security Policies : Content/NetworkSecurityPolicies.md
+    - Network Security Applications and Tools :  
+      - Importance of Basic Security Practices ; Firewalls, Antiviruses, and IDS/IPS : Content\Network Security Applications and Tools\NetworkSecurityApplicationsandTools.md
+      - Cryptography and Encryption : Content\Network Security Applications and Tools\Cryptography and Encryption.md
+    - Conclusion : Content\Conclusion.md
+    - References : Content/References.md
+  - About : About.md
+
+
+
+ 
+
+
