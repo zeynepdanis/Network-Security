@@ -1,5 +1,5 @@
 
-# Conclusion 
+# CONCLUSION 
 
 Network security has become one of the cornerstones of today's digital environment. This report represents a comprehensive review of network security strategies, applications, tools, and policies.
 
