@@ -1,5 +1,5 @@
 
-# About Us
+# About Me
 
 This site serves as a platform showcasing the school works and projects of Zeynep Danış. Here, you'll find content primarily focused on information technology, network security, and related subjects.
 
