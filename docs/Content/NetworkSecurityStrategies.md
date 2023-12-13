@@ -4,54 +4,54 @@ Network security has become a cornerstone of digital transformation in today's w
 
 ## Physical, Software, and Network Security Strategies
 
-#### **Physical Security Strategies** 
+#### A) **Physical Security Strategies** 
 These refer to the measures employed to safeguard an organization's physical assets. They include securing a facility's building, equipment, personnel, visitors, vehicles, etc. Physical security strategies encompass:
 
-**Access Control**
+* **Access Control**
 
 Determining who can access an organization's physical areas and resources through methods like card readers, fingerprint recognition, facial recognition, door locks, turnstiles, barriers, etc., preventing unauthorized individuals from causing harm, stealing, or manipulating physical assets.
 
-**Surveillance**
+* **Surveillance**
 
 Monitoring a company's physical areas and resources using tools like security cameras, alarm systems, sensors, lights, security personnel, etc., to detect, prevent, or intervene in events that threaten physical security.
 
-**Fire and Disaster Prevention**
+* **Fire and Disaster Prevention**
 
 Protecting a company's physical areas and resources from natural or man-made disasters like fires, floods, earthquakes, terrorist attacks, etc., through systems like fire extinguishers, smoke detectors, sprinklers, generators, backup systems, emergency plans, etc., to prevent or mitigate disasters jeopardizing physical security.
 
-#### **Software Security Strategies**
+#### B) **Software Security Strategies**
 
 These aim to protect a company's computer systems and data. They involve ensuring the security of software, hardware, data, networks, etc., and include:
 
-**Using Updated Software**
+* **Using Updated Software**
 
 Employing the latest versions of software in computer systems, encompassing security patches, bug fixes, performance enhancements, etc., to mitigate security vulnerabilities, protect against cyber attacks, and improve system performance.
 
-**Strong Passwords**
+* **Strong Passwords**
 
 Authentication mechanisms granting access to computer systems and data through complex, unique, long, and hard-to-guess passwords, preventing unauthorized access.
 
-**Firewalls**
+* **Firewalls**
 
 Software or hardware-based tools protecting a company's network, monitoring network traffic, filtering packets based on rules to block or allow specific network traffic, preventing unwanted or malicious traffic from entering or leaving the network.
 
-**Antivirus Software**
+* **Antivirus Software**
 
 Software tools designed to protect a company's computer systems and data by detecting, blocking, removing, or quarantining malicious software like viruses, worms, trojans, ransomware, etc., preventing or reducing the impact of harmful software on computer systems and data.
 
-#### **Network Security Strategies**
+#### C) **Network Security Strategies**
 
 These refer to measures implemented to protect a company's network infrastructure, devices, protocols, services, etc., ensuring their security. Network security strategies encompass:
 
-**Network Access Control**
+* **Network Access Control**
 
 Determining who can access a company's network through methods like usernames, passwords, MAC addresses, IP addresses, role-based access, network access servers, network access protection, etc., preventing unauthorized access to the network or its resources.
 
-**Network Encryption**
+* **Network Encryption**
 
 Using cryptographic methods to maintain the confidentiality and integrity of data transmitted within a company's network, converting data into an unreadable format accessible only to authorized personnel, preventing unauthorized individuals from seizing or altering data.
 
-**Network Monitoring and Auditing**
+* **Network Monitoring and Auditing**
 
 Recording, analyzing, and reporting all network activities within a company, measuring network performance, usage, issues, security, etc., detecting, preventing, or intervening in events threatening network security.
 
@@ -69,7 +69,7 @@ Examples of organizations employing network security strategies:
 
 Organizations develop strategic plans, policies, procedures, and techniques to ensure data security and privacy. These approaches encompass various methods to protect data from unauthorized access, loss, alteration, or disclosure:
 
-#### **Data Classification**
+#### A)  **Data Classification**
 
 Categorizing data based on sensitivity, importance, and security requirements enables controlling, monitoring, and preventing breaches. It involves:
 
@@ -79,7 +79,7 @@ Categorizing data based on sensitivity, importance, and security requirements en
 
 **Auditing the Data Classification Process:** Assessing the effectiveness, compliance, and performance of the data classification process to evaluate policy implementation, process operation, risks, and areas for improvement.
 
-#### **Data Encryption**
+#### B) **Data Encryption**
 
 Using cryptographic techniques to transform data into an unreadable format, preventing unauthorized access and maintaining data integrity during transmission. It involves:
 
@@ -89,7 +89,7 @@ Using cryptographic techniques to transform data into an unreadable format, prev
 
 **Encryption Mode:** Parameters that determine how encryption algorithms encrypt data, affecting performance, security, and error tolerance. Modes include electronic codebook (ECB), cipher block chaining (CBC), cipher feedback (CFB), output feedback (OFB), counter (CTR), etc.
 
-#### **Data Masking**
+#### C) **Data Masking**
 
 Replacing real values with fake or modified values to preserve privacy, especially when sharing data for testing, development, or analysis. It can be dynamic or static:
 

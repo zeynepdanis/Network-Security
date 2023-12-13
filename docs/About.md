@@ -13,7 +13,7 @@ This project has been created as part of the Network Security With Open Source T
 
 ## GitHub Repository
 
-You can access the source code of this project on [GitHub Repository Link](https://github.com/username/projectname).
+You can access the source code of this project on [GitHub Repository Link](https://github.com/zeynepdanis/Network-Security.git).
 
 ## Contact
 
