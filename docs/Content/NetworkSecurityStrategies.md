@@ -97,7 +97,7 @@ Replacing real values with fake or modified values to preserve privacy, especial
 
 **Static Data Masking:** Transforming data by changing actual values based on masking rules, creating copies with modified data. It doesn't affect data source performance but may compromise data integrity.
 
-#### **Data Security Policies**
+#### D) **Data Security Policies**
 
 Organizations establish data security policies to guide their data security strategies. These policies define rules, standards, audits, responsibilities, and sanctions. They increase awareness, ensure compliance, and mitigate risks, fostering a common understanding of data security among stakeholders within an organization.
 
